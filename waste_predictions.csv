@@ -1,0 +1,33 @@
+Date,Area,Area_Type,Predicted_Waste_kg,Overflow_Risk,Overflow_Probability_pct,Recommended_Workers,Recommended_Trucks
+2026-06-17,Market Square,Commercial,969.6,Low,0.0,5,2
+2026-06-17,Lakeview Residences,Residential,571.9,Low,0.0,3,1
+2026-06-17,Riverside Heights,Residential,575.7,Low,0.0,3,1
+2026-06-17,Hillside Gardens,Suburban,365.6,Low,0.0,3,1
+2026-06-17,Greenfield Industrial Park,Industrial,782.0,Low,4.0,4,1
+2026-06-19,Market Square,Commercial,962.8,Low,0.0,5,2
+2026-06-19,Lakeview Residences,Residential,565.1,Low,0.0,3,1
+2026-06-19,Riverside Heights,Residential,568.8,Low,0.0,3,1
+2026-06-19,Hillside Gardens,Suburban,358.7,Low,0.0,3,1
+2026-06-19,Greenfield Industrial Park,Industrial,775.1,Low,4.0,4,1
+2026-06-20,Market Square,Commercial,1093.1,Medium,26.0,5,2
+2026-06-22,Market Square,Commercial,985.0,Low,0.0,5,2
+2026-06-22,Lakeview Residences,Residential,587.3,Low,1.0,3,1
+2026-06-22,Riverside Heights,Residential,591.0,Low,0.0,3,1
+2026-06-22,Hillside Gardens,Suburban,380.9,Low,0.0,3,1
+2026-06-22,Greenfield Industrial Park,Industrial,797.3,Low,4.0,4,1
+2026-06-24,Market Square,Commercial,978.1,Low,0.0,5,2
+2026-06-24,Lakeview Residences,Residential,580.4,Low,0.0,3,1
+2026-06-24,Riverside Heights,Residential,584.1,Low,0.0,3,1
+2026-06-24,Hillside Gardens,Suburban,374.1,Low,0.0,3,1
+2026-06-24,Greenfield Industrial Park,Industrial,790.5,Low,4.0,4,1
+2026-06-26,Market Square,Commercial,971.2,Low,0.0,5,2
+2026-06-26,Lakeview Residences,Residential,573.5,Low,0.0,3,1
+2026-06-26,Riverside Heights,Residential,577.3,Low,0.0,3,1
+2026-06-26,Hillside Gardens,Suburban,367.2,Low,0.0,3,1
+2026-06-26,Greenfield Industrial Park,Industrial,783.6,Low,4.0,4,1
+2026-06-27,Market Square,Commercial,1101.6,Medium,26.0,5,2
+2026-06-29,Market Square,Commercial,993.4,Low,0.0,5,2
+2026-06-29,Lakeview Residences,Residential,595.7,Low,0.0,3,1
+2026-06-29,Riverside Heights,Residential,599.5,Low,0.0,3,1
+2026-06-29,Hillside Gardens,Suburban,389.4,Low,0.0,3,1
+2026-06-29,Greenfield Industrial Park,Industrial,805.8,Low,8.0,4,1
